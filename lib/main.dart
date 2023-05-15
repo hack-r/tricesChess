@@ -81,13 +81,11 @@ class _MyAppState extends State<MyApp> {
       themeMode: _themeMode,
       home: initialUser == null || displaySplashImage
           ? Builder(
-              builder: (context) => Center(
-                child: SizedBox(
-                  width: 50.0,
-                  height: 50.0,
-                  child: CircularProgressIndicator(
-                    color: FlutterFlowTheme.of(context).primary,
-                  ),
+              builder: (context) => Container(
+                color: Colors.transparent,
+                child: Image.asset(
+                  'assets/images/_8c53b586-3c5b-4070-8186-da28312a09a1.jpeg',
+                  fit: BoxFit.cover,
                 ),
               ),
             )
