@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1020534136831",
+    "project_id": "trice-s-chess",
+    "storage_bucket": "trice-s-chess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020534136831:android:1aa6e7aa2a2665922b11ca",
+        "android_client_info": {
+          "package_name": "com.libreagora.triceschess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020534136831-7v9kglej0mckdg7dd5sprmv9oel7avcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.libreagora.triceschess",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1020534136831-8egjgroq03hnh0s93eoe0mu8kmks0qlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeUs4VOVTeiVfT54ex3w8cDDmzUUbsWQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020534136831-8egjgroq03hnh0s93eoe0mu8kmks0qlh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020534136831-o8k4qgkpbi99va4gku0uqucvk9083jhd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.libreagora.triceschess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
