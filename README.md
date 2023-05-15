@@ -1,6 +1,9 @@
 # Trices-Chess
 
-A new Flutter project.
+A cross-platform implementation of Edward Trice's chess variant, Trice's Chess (formerly known as Gothic Chess). 
+
+![medium_board](https://github.com/hack-r/tricesChess/assets/7491078/c13191c4-9e97-4880-924c-0cc2667b5ffb)
+
 
 ## Getting Started
 
