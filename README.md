@@ -3,8 +3,7 @@
 
 ## Overview
 
-New fork of Fairy Chess that I'll try to tweek to power my Flutter implementation of Edward Trice's chess variant, "Trice's Chess" (aka Gothic Chess). ![Uploading medium_board.gif…]()
-
+New fork of Fairy Chess that I'll try to tweek to power my Flutter implementation of Edward Trice's chess variant, "Trice's Chess" (aka Gothic Chess). 
 
 [![Build Status](https://github.com/fairy-stockfish/Fairy-Stockfish/workflows/Release/badge.svg?branch=master)](https://github.com/fairy-stockfish/Fairy-Stockfish/actions?query=workflow%3ARelease)
 [![Build Status](https://github.com/fairy-stockfish/Fairy-Stockfish/workflows/fairy/badge.svg?branch=master)](https://github.com/fairy-stockfish/Fairy-Stockfish/actions?query=workflow%3Afairy)
