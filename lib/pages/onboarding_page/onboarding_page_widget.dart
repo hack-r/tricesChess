@@ -89,7 +89,7 @@ class _OnboardingPageWidgetState extends State<OnboardingPageWidget> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Image.asset(
-                        'assets/images/logo_horizontalTrivia@2x.png',
+                        'assets/images/Untitled_(400__300_px).png',
                         height: 50.0,
                         fit: BoxFit.cover,
                       ),
